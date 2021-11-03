@@ -1,0 +1,12 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.codigo {
+    font-family:'Courier New', Courier, monospace;
+    border: solid;
+    border-color: blueviolet;
+    border-width: 1mm;
+    margin-left: 2%;
+    margin-right: auto;
+}
