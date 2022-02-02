@@ -6,16 +6,16 @@ console.log('Linha 3')
 console.log('Linha 4')
 console.log('Linha 5')
 */
-
+// inicializa / condição / incremento
 for (let i = 0; i <= 5; i++) {
     console.log(`Linha ${i}`);
 }
 
 /* Varredura de Array */
 
-const frutas = ['Maçã', 'Melão', 'Melancia', 'Banana', 'Goiaba'];
+const frutas = [ 'Maçã', 'Melão', 'Melancia', 'Banana', 'Goiaba' ];
 
-for (let i = 0; i < frutas.length; i++) {
-    console.log(`${i+1}ª ${frutas[i]}`);
+for ( let i = 0; i < frutas.length; i++ ) {
+    console.log(`${ i+1 }ª ${ frutas[i] }`);
 }
 
