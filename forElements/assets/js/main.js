@@ -40,6 +40,3 @@ for (const element of elements) {
     createdTag.innerText = text;
     div.appendChild(createdTag);
 }
-
-
-
